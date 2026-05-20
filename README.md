@@ -83,13 +83,14 @@ const dipta = {
 </p>
 
 ## Contribution Calendar
-
+<!--
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/diptaPrattoy/diptaPrattoy/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Dipta Prattoy's 3D Contribution Calendar"
   />
 </p>
+-->
 
 ## Connect With Me
 
