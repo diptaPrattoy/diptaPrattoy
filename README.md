@@ -74,12 +74,6 @@ const dipta = {
 </p>
 
 ## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diptaPrattoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptaPrattoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=diptaPrattoy&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 </p>
@@ -94,15 +88,6 @@ const dipta = {
   <img
     src="https://raw.githubusercontent.com/diptaPrattoy/diptaPrattoy/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Dipta Prattoy's 3D Contribution Calendar"
-  />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diptaPrattoy&custom_title=Dipta%20Prattoy's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&radius=16"
-    alt="Dipta Prattoy's Contribution Graph"
   />
 </p>
 
