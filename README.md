@@ -78,9 +78,11 @@ const dipta = {
   <img height="170" src="https://streak-stats.demolab.com?user=diptaPrattoy&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=diptaPrattoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
+-->
 
  <!-- ## Contribution Calendar -->
 <!--
