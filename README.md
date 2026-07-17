@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/fa.png" alt="Dipta Prattoy Karmakar Banner" width="100%" />
+</p>
+
 <h1 align="center">
   Hi, I'm <span style="color:#8B5CF6;">Dipta Prattoy Karmakar</span>
 </h1>
@@ -5,6 +9,11 @@
 <h3 align="center">
   Full Stack Developer building scalable, clean, and modern web applications
 </h3>
+
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp; • &nbsp;
+  📧 diptakarmakar395@gmail.com
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,16 +25,16 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <!-- <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  </a> -->
+  <a href="https://www.linkedin.com/in/dipta-prattoy-karmakar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="YOUR_TWITTER_LINK">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:diptakarmakar395@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -43,10 +52,67 @@ const dipta = {
 };
 ```
 
-## Tech Arsenal
+I'm a passionate Full Stack Developer with a strong interest in building scalable web applications and modern backend systems. I enjoy turning ideas into real-world solutions using technologies like Next.js, NestJS, React, Node.js, PostgreSQL, and MongoDB. Beyond web development, I'm actively exploring Artificial Intelligence, Machine Learning, and continuously learning new technologies to expand my expertise.
+
+## Current Activities
+
+- Building scalable Full Stack applications with **Next.js** and **NestJS**
+- Exploring **Artificial Intelligence** and **Machine Learning**
+- Developing secure REST APIs and backend architectures
+
+<!-- ## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,nestjs,mongodb,postgresql,git,github,postman,vscode,firebase,vercel,netlify,c,cpp,cs&perline=8" alt="Tech Stack" />
+</p> -->
+<!--
+## Tech Arsenal
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&perline=9" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,c,cpp,cs&perline=6" alt="Backend" />
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&perline=3" alt="Database" />
+</p>
+
+<p align="center"><b>Tools & Deployment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&perline=6" alt="Tools & Deployment" />
+</p> -->
+
+## Tech Arsenal
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs&perline=5" alt="Languages" />
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap&perline=7" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3" alt="Backend" />
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma&perline=3" alt="Database" />
+</p>
+
+<p align="center"><b>Tools & Deployment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&perline=6" alt="Tools & Deployment" />
 </p>
 
 ## Core Stack
@@ -79,18 +145,31 @@ const dipta = {
   <img height="170" src="https://streak-stats.demolab.com?user=diptaPrattoy&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=diptaPrattoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p> -->
+
+<!-- ## Holopin Badges -->
+
+<!-- Sign up at https://holopin.io, then replace "YOUR_HOLOPIN_USERNAME" below with your actual username -->
+
+<!-- <p align="center">
+  <a href="https://holopin.io/@YOUR_HOLOPIN_USERNAME">
+    <img src="https://holopin.io/api/user/board?user=dipta" alt="Dipta Prattoy's Holopin board" />
+  </a>
+</p> -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=diptaPrattoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-## Contribution Calendar
+<!-- ## Contribution Calendar
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/diptaPrattoy/diptaPrattoy/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Dipta Prattoy's 3D Contribution Calendar"
   />
-</p>
+</p> -->
 
 ## Contribution Activity
 
@@ -107,10 +186,10 @@ const dipta = {
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/dipta-prattoy-karmakar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:diptakarmakar395@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
