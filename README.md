@@ -76,11 +76,6 @@ const dipta = {
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diptaPrattoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptaPrattoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=diptaPrattoy&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 </p>
 
