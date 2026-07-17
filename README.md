@@ -140,45 +140,25 @@ I'm a passionate Full Stack Developer with a strong interest in building scalabl
 </p>
 
 ## GitHub Analytics
-
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=diptaPrattoy&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 </p>
 
+<!--
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=diptaPrattoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p> -->
-
-<!-- ## Holopin Badges -->
-
-<!-- Sign up at https://holopin.io, then replace "YOUR_HOLOPIN_USERNAME" below with your actual username -->
-
-<!-- <p align="center">
-  <a href="https://holopin.io/@YOUR_HOLOPIN_USERNAME">
-    <img src="https://holopin.io/api/user/board?user=dipta" alt="Dipta Prattoy's Holopin board" />
-  </a>
-</p> -->
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=diptaPrattoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
+-->
 
-<!-- ## Contribution Calendar
-
+ <!-- ## Contribution Calendar -->
+<!--
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/diptaPrattoy/diptaPrattoy/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Dipta Prattoy's 3D Contribution Calendar"
   />
-</p> -->
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diptaPrattoy&custom_title=Dipta%20Prattoy's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&radius=16"
-    alt="Dipta Prattoy's Contribution Graph"
-  />
 </p>
+-->
 
 ## Connect With Me
 
