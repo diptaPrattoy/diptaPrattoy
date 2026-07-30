@@ -12,7 +12,7 @@
 
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp; • &nbsp;
-  📧 diptakarmakar395@gmail.com
+  📧 diptaprattoy@gmail.com
 </p>
 
 <p align="center">
