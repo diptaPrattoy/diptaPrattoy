@@ -90,11 +90,6 @@ I'm a passionate Full Stack Developer with a strong interest in building scalabl
 
 ## Tech Arsenal
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs&perline=5" alt="Languages" />
-</p>
-
 <p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap&perline=7" alt="Frontend" />
@@ -107,7 +102,12 @@ I'm a passionate Full Stack Developer with a strong interest in building scalabl
 
 <p align="center"><b>Database</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma&perline=3" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,mysql&perline=4" alt="Database" />
+</p>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs&perline=5" alt="Languages" />
 </p>
 
 <p align="center"><b>Tools & Deployment</b></p>
